@@ -136,10 +136,12 @@ st.write("📅", "January 2018 - November 2022")
 st.write(
     """
     -  Worked under supervision of journeyman electrician to learn trade and develop electrical knowledge.
-    -  Pulled EMT and PVC conduit wire according to plans and code requirements
-    -  Handled installation of electrical components by splicing, joining, and connecting wire
-    -  Understood and used proper tools and equipment to install and maintain electrical systems
+    -  Installed EMT consuit and PVC piping according to plans and code requirements.
+    -  Installed electrical circuitry per plans and code requirements.
+    -  Installed Electrical components per building specifications.
+    -  Studied the proper use and care of power tools and equipment to install and maintain electrical systems.
     -  Adhered to electrical and building codes when installing and repairing electrical systems or components.
+    -  Maintained a clean and safe work environment thorugh OSHA requirments.
     
     """
 )
